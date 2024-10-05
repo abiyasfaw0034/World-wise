@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "1c28",
+      "cityName": "El Meghaier",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-07-23T09:47:26.951Z",
+      "notes": "",
+      "position": {
+        "lat": "33.94335994657882",
+        "lng": "5.339355468750001"
+      }
+    },
+    {
+      "id": "2022",
+      "cityName": "Montijo",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-07-24T10:38:26.299Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71980474264239",
+        "lng": "-8.701171875000002"
+      }
+    },
+    {
+      "id": "99d9",
+      "cityName": "Kosti",
+      "country": "Sudan (the)",
+      "emoji": "🇸🇩",
+      "date": "2024-07-24T10:40:38.579Z",
+      "notes": "asdasdad",
+      "position": {
+        "lat": "12.897489183755892",
+        "lng": "31.992187500000004"
+      }
+    },
+    {
+      "id": "edb2",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-05T11:55:42.621Z",
+      "notes": "",
+      "position": {
+        "lat": "40.346786252171164",
+        "lng": "-3.7139910277272468"
+      }
+    },
+    {
+      "id": "7579",
+      "cityName": "Addis Ababa",
+      "country": "Ethiopia",
+      "emoji": "🇪🇹",
+      "date": "2024-10-05T11:56:16.094Z",
+      "notes": "",
+      "position": {
+        "lat": "8.939785522233116",
+        "lng": "38.81346665015396"
+      }
+    }
+  ]
+}
